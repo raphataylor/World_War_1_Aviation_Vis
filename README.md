@@ -13,3 +13,5 @@ pip install altair
 pip install matplotlib
 
 ## INFORMATION VISUALISATION REPORT
+
+[View the Information Visualisation Report](Info_Vis_Report.pdf)
